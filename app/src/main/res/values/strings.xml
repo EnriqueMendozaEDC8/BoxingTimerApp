@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Boxing Time</string>
+    <string name="SparringTimeTextView">TextView</string>
+    <string name="BreakTimeTextView">TextView</string>
+    <string name="SparringUpButton">Button</string>
+    <string name="BreakUpButton">Button</string>
+    <string name="SparringDownButton">Button</string>
+    <string name="BreakDownButton">Button</string>
+</resources>
